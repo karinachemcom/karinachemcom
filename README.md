@@ -7,7 +7,6 @@
 ### نماد اعتماد و کیفیت در صنعت مواد شیمیایی ایران
 
 [![Website](https://img.shields.io/badge/🌐_Website-karinachem.com-2C5F2D?style=for-the-badge)](https://karinachem.com)
-[![Status](https://img.shields.io/badge/Active-status-success?style=for-the-badge)]()
 [![Support](https://img.shields.io/badge/Support-24/7-blue?style=for-the-badge)]()
 
 **مواد شیمیایی استاندارد، خدمات بی‌نظیر**
